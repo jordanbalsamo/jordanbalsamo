@@ -1,7 +1,6 @@
-### Hi there 👋! I'm Jordan aka jordanbalsamo.
+### Hi there 👋 ! I'm Jordan aka jordanbalsamo.
 
-<!--
-**jordanbalsamo/jordanbalsamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**jordanbalsamo/jordanbalsamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 ## I build infrastructure, software and data solutions
 
@@ -10,4 +9,3 @@
 - 💬 Ask me about anything! The Azure cloud platform, AWS cloud platform, Terraform, Bash, SQL, Python, node.js are some examples.
 - 📫 How to reach me: [GitHub](https://github.com/jordanbalsamo/) and [LinkedIn](https://www.linkedin.com/in/jordan-balsamo-b96444113/).
 - ⚡ Fun fact: currently learning 🇪🇸!
--->
